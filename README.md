@@ -41,6 +41,6 @@
 [`HERE'S AN EXAMPLE OUTPUT`](https://pair1.giftedtech.my.id)
 # `Owner`
 
- <a href="https://github.com/mouricedevs"><img src="https://github.com/mouricedevs.png" width="250" height="250" alt="Gifted Tech"/></a>
+ <a href="https://github.com/mouricedevs"><img src="https://github.com/mouricedevs.png" width="250" height="250" alt="https://github.com/HDKING85/Daenerys-"/></a>
 
    
